@@ -13,7 +13,7 @@ provider:
   versionFunctions: false
 
 functions:
-  'lambda-selenium-demo':
-    handler: 'com.blackboard.testing.lambda.LambdaTestHandler::handleRequest'
+  'lambda-selenium-pwc-function':
+    handler: 'com.pwc.testing.lambda.LambdaTestHandler::handleRequest'
     name: lambda-selenium-function
     description: Lambda Selenium Demo Tests

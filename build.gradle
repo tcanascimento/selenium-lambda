@@ -11,7 +11,7 @@ buildscript {
 
 apply plugin: 'com.github.johnrengelman.shadow'
 
-group = 'com.blackboard.testing'
+group = 'com.pwc.testing'
 
 repositories {
     mavenCentral()
