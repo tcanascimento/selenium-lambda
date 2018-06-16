@@ -15,5 +15,5 @@ provider:
 functions:
   'lambda-selenium-pwc-function':
     handler: 'com.pwc.testing.lambda.LambdaTestHandler::handleRequest'
-    name: lambda-selenium-function
+    name: lambda-selenium-pwc-function
     description: Lambda Selenium Demo Tests
